@@ -17,6 +17,7 @@
 ![Screen Capture #6](figures/6.png)
 
 - Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
+!
 
 - he section of the POM file showing the coordinates after you’ve fixed them.
 
