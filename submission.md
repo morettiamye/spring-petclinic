@@ -2,10 +2,13 @@
 ![Screen Capture #1](figures/1.png)
 
 - Your Travis CI dashboard showing a successful first build.
+![Screen Capture #2](figures/2.png)
 
 - The section of the POM file showing the coordinates after you’ve changed them.
+![Screen Capture #3](figures/3.png)
 
 - Your Travis CI dashboard showing a successful build after your change of the group ID.
+![Screen Capture #4](figures/4.png)
 
 - The section of the POM file showing the coordinates after you’ve commented them out.
 
